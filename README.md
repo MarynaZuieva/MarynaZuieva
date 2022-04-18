@@ -82,8 +82,7 @@
 </table>
 
 
-
-> GitHub Profile Status
+## GitHub Profile Status
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=BestGoal&show_icons=true&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="54.25%">
